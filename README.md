@@ -1,16 +1,23 @@
-### Hi there 👋
+# Profile Description
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**malsheikcomp/malsheikcomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/021517">
+  <img align="left" alt="My LinkdeIn" width="30px" src="https://github.com/malsheikcomp/malsheikcomp/blob/main/assets/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.glitch.me/badge?page_id=malsheikcomp)
+<br/>
+
+- Hello Everyone! I am Mohammed Alsheikh, a young enthusiast in the field of Data Science, Machine Learning, and Artificial Intelligence.
+- I have a formal background in mathematics and computer science.
+- My background paired with my tenacious personality provides me with the neccesary tools to work on the newest cutting-edge technolgoies and state of the art models!
+
+<img align="center" alt="GIF" src="https://github.com/malsheikcomp/malsheikcomp/blob/main/assets/coding-freak.gif" width="500" height="300" />
+
+**Personal Information:**
+- 👨🏽‍💻 I’m always working on cool things. :wink:
+- 🌱 I’m currently building Deep Leaning models.
+- 💬 Ask me about anything, I am happy to help❗
+- 📧 How to reach me: Email : (malsheik@umich.edu)
+- 😄 Pronouns: he/him
