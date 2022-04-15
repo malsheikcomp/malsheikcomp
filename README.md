@@ -11,7 +11,7 @@
 
 - Hello Everyone! I am Mohammed Alsheikh, a young enthusiast in the field of Data Science, Machine Learning, and Artificial Intelligence.
 - I have a formal background in mathematics and computer science.
-- My background paired with my tenacious personality provides me with the neccesary tools to work on the newest cutting-edge technolgoies and state of the art models!
+- My background paired with my tenacious personality provides me with the neccesary tools to work on the newest cutting-edge technologies and state of the art models!
 
 <img align="center" alt="GIF" src="https://github.com/malsheikcomp/malsheikcomp/blob/main/assets/coding-freak.gif" width="500" height="300" />
 
