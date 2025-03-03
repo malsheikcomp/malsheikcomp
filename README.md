@@ -16,8 +16,7 @@
 <img align="center" alt="GIF" src="https://github.com/malsheikcomp/malsheikcomp/blob/main/assets/coding-freak.gif" width="500" height="300" />
 
 **Personal Information:**
-- 👨🏽‍💻 I’m always working on cool things. :wink:
+- 👨🏽‍💻 I’m always working on cool things. 😄
 - 🌱 I’m currently building Deep Leaning models.
 - 💬 Ask me about anything, I am happy to help❗
-- 📧 How to reach me: Email : (malsheik@umich.edu)
-- 😄 Pronouns: he/him
+- 📧 How to reach me: Email : (mohammedalsheikh9875@gmail.com)
